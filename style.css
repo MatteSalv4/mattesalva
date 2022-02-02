@@ -306,6 +306,10 @@ body.dark .switch::before{
     margin-top: 10%;
 }
 
+.comming .commingjh{
+    text-align: center;
+}
+
 .sidebar.close ~ .home{
     left: 78px;
     height: 100vh;
